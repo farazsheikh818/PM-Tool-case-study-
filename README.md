@@ -1,5 +1,3 @@
-# Laravel 10 Sanctum Auth
+# PM Tool - Case Study
 
-> For demonstration purpose only
 
-Authentication API using Laravel 10 Sanctum (register, login, logout) and abilities.
