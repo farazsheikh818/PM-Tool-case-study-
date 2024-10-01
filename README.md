@@ -8,9 +8,6 @@ laravel sanctum api authentication
 
 - [Installation](#installation)
 - [API Endpoints](#api-endpoints)
-- [Testing](#testing)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
